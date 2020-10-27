@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JToolsBase"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/lib/aws-java-sdk-1.11.584-sources.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/ApacheCommonsIO/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/Apache Commons Codec/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/Apache Commons Codec/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/lib/aws-java-sdk-1.11.584.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/aspectjrt-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/aws-swf-build-tools-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/freemarker-2.3.9.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/ion-java-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/jackson-annotations-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/jackson-core-2.6.7.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/jackson-databind-2.6.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/jackson-dataformat-cbor-2.6.7.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/javax.mail-api-1.4.6.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/jmespath-java-1.11.584.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/joda-time-2.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/netty-buffer-4.1.17.Final.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/netty-codec-4.1.17.Final.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/netty-codec-http-4.1.17.Final.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/netty-common-4.1.17.Final.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/netty-handler-4.1.17.Final.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/netty-resolver-4.1.17.Final.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/netty-transport-4.1.17.Final.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/spring-beans-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/spring-context-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/spring-core-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/zack/Tools/Programming/Java/Libs/aws-java-sdk-1.11.584/third-party/lib/spring-test-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
