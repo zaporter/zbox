@@ -16,7 +16,6 @@ public class ZClient {
 		};
 		comm.init();
 		boolean connected = comm.testConnection(200);
-		connected=true;
 		if (!connected) {
 			Log.println("Unable to connect to zboxserver. Has it been started?");
 			comm.shutdownSelf();
