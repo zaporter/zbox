@@ -1,5 +1,7 @@
 # ZBox
 
+This is a fairly complex app which allows for syncing across multiple devices through S3. After installation, the program is started with the "zboxserver" (on user login) and then can be managed via the "zbox" command. The syntax is similar to the awscli tool. It forms a connection to the Zbox server program and then runs the command and returns the result.  
+
 Help for ZBox:
 ping:
     say pong
@@ -50,6 +52,8 @@ sync:
 start:
     
 shutdown:
-    Shutdown the box:		Options:		-f, -force: force shutdown now. (Otherwise will finish sync in progress if any then shutdown)
-     -t, -thread: only shut down the sync thread
+    Shutdown the box:	
+    Options:
+    -f, -force: force shutdown now. (Otherwise will finish sync in progress if any then shutdown):
+    -t, -thread: only shut down the sync thread
 
